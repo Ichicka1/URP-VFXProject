@@ -65,11 +65,11 @@ Material:
     m_Ints: []
     m_Floats:
     - _ENABLEEMMISIVE: 1
-    - _Metalic: 0
-    - _NormalStrength: 1
+    - _Metalic: 0.195
+    - _NormalStrength: 1.57
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Smoothness: 0
+    - _Smoothness: 0.1
     m_Colors:
     - _EmmisiveColor: {r: 5.275445, g: 2.14544, b: 0, a: 0}
   m_BuildTextureStacks: []
